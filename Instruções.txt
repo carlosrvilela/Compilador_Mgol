@@ -1,0 +1,3 @@
+Para iniciar a análise execute o arquivo “AnalisadorSintatico”, o mesmo invocará a função PARSE conforme o especificado.
+Para mudar o arquivo de análise (código fonte), acesse o arquivo “AnalisadorLexico.py” e na ultima linha faça a alteração do parâmetro na chamada da função le_arquivo
+Se não houver nenhum erro léxico, sintático ou semântico, um cogigi_obj.c será gerado
